@@ -7,6 +7,8 @@ Projects I made in Computer Architecture. I use emu8086 for my projects
 - [Processor](#processor)
 - [Memory](#memory)
 - [Data Bus & Data Sizes](#data-bus--data-sizes)
+- [Applications](#applications)
+  - [Read-Write](#read-write)
 
 # Computer Architecture
 
@@ -89,3 +91,7 @@ Connects to memory and I/O via **address**, **data** and **control** buses. (bus
 #### Floating Point
  - Single (S) -> 32 bits
  - Double (D) -> 64 bits
+
+
+# Applications
+# Read-Write
