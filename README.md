@@ -9,7 +9,9 @@ Projects I made in Computer Architecture. I use emu8086 for my projects
 - [Data Bus & Data Sizes](#data-bus--data-sizes)
 - [Applications](#applications)
   - [Logical-Arithmetic](#logical-arithmetic)
-
+  - [Comparison-Jump](#comparison-jump)
+  - [String manipulation](#string-manipulation)
+ 
 # Computer Architecture
 
 > Computer architecture is the organisation of the components which make up a computer system and the meaning of the operations which guide its function. It defines what is seen on the machine interface, which is targeted by programming languages and their compilers. 
@@ -95,3 +97,7 @@ Connects to memory and I/O via **address**, **data** and **control** buses. (bus
 
 # Applications
 # Logical-Arithmetic
+
+# Comparison-Jump
+
+# String Manipulation
