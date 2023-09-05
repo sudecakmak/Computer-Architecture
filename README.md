@@ -96,8 +96,16 @@ Connects to memory and I/O via **address**, **data** and **control** buses. (bus
 
 
 # Applications
-# Logical-Arithmetic
 
-# Comparison-Jump
+## Logical-Arithmetic
 
-# String Manipulation
+> Given an encrypted text and the need to translate this encrypted text, you must write a decryption algorithm.
+
+## Comparison-Jump
+
+> The size of the data falling into each interval was calculated over the predefined start and end values.
+
+## String Manipulation
+
+> Output the text where the transaction codes are not displayed and the text obtained as a result of the application of the transaction codes.
+
